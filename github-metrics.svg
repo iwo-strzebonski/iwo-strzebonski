@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1711" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1709" class="">
     <defs>
         <style/>
     </defs>
@@ -1080,7 +1080,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                         </svg>
-                        393 Commits
+                        400 Commits
                     </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1279,7 +1279,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"/>
                             </svg>
-                            ~1.96 commits per day
+                            ~1.99 commits per day
                         </div>
                     </section>
                 </div>
@@ -2262,10 +2262,10 @@
                             </g>
                         </g>
                         <g transform="translate(44.199999999999996, 26)">
-                            <g transform="translate(0, 5.699999999999999)">
+                            <g transform="translate(0, 4.65)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3 0,1.3 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3 1.7,2.3 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.35 0,2.35 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.35 1.7,3.35 z"/>
                             </g>
                         </g>
                     </g>
@@ -2287,7 +2287,7 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 0 commits in
                                         <span class="repo">
                                             I-voR/WebPlayer
                                         </span>
@@ -2298,14 +2298,6 @@
                                         on branch
                                         <span class="code">
                                             main
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #9c12f46
-                                        </span>
-                                        <span class="message">
-                                            Aktualizacja pakietu SSRI
                                         </span>
                                     </div>
                                 </div>
@@ -2333,10 +2325,10 @@
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #20c776b
+                                            #70d26cc
                                         </span>
                                         <span class="message">
-                                            Przyciski do obsługi Playera wreszcie działają!
+                                            Usunięcie niepotrzebnych opcji po stronie Serwera
                                         </span>
                                     </div>
                                 </div>
@@ -2364,10 +2356,12 @@
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #3ea7438
+                                            #839b0b0
                                         </span>
                                         <span class="message">
-                                            Drobne poprawki, ale wciąż coś nie działa
+                                            Zmiany w input type range-ach
+
+Dodanie możliwości zmiany głośności
                                         </span>
                                     </div>
                                 </div>
@@ -2380,7 +2374,7 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 3 commits in
                                         <span class="repo">
                                             I-voR/WebPlayer
                                         </span>
@@ -2395,49 +2389,49 @@
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #a757536
+                                            #88ec2c8
                                         </span>
                                         <span class="message">
-                                            Nie wiem, czemu to dalej nie działa
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">
-                                            I-voR/WebPlayer
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        on branch
-                                        <span class="code">
-                                            main
+                                            Poprawiono pasek postępu utworu
                                         </span>
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #c8bcc38
-                                        </span>
-                                        <span class="message">
-                                            Dodano Vue-CLI
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #d432d43
+                                            #3b004dd
                                         </span>
                                         <span class="message">
                                             Merge remote-tracking branch 'origin/main' into main
+                                        </span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">
+                                            #205d081
+                                        </span>
+                                        <span class="message">
+                                            Poprawki w Git-cie
+                                        </span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 0 commits in
+                                        <span class="repo">
+                                            I-voR/WebPlayer
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        on branch
+                                        <span class="code">
+                                            main
                                         </span>
                                     </div>
                                 </div>
@@ -2572,7 +2566,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="8.252366909088027 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="8.260138205859969 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2886,7 +2880,7 @@
                     These metrics include private contributions, timezone Europe/Warsaw
                 </span>
                 <span>
-                    Last updated Sun, 11 Apr 2021 17:18:44 GMT with lowlighter/metrics@3.6.0
+                    Last updated Sun, 11 Apr 2021 18:11:27 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
