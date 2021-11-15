@@ -21,7 +21,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Warsaw
-          config_display: columns
+          # config_display: columns
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
