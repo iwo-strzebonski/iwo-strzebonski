@@ -22,6 +22,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Warsaw
+          config_display: columns
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
@@ -45,6 +46,8 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_habits: yes
-          plugin_habits_days: 14
+          plugin_habits_days: 360
           plugin_habits_facts: yes
           plugin_habits_from: 200
+          plugin_notable: yes
+          plugin_notable_from: all
