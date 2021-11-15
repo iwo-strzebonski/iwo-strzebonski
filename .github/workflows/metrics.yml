@@ -9,7 +9,6 @@ on:
   workflow_dispatch:
       inputs:
           description: {default: 'Start Metrics Workflow'}
-          required: {required: true}
           name: {default: 'Metrics for iwo-strzebonski'}
 jobs:
   build:
