@@ -29,8 +29,8 @@ jobs:
           plugin_achievements_threshold: C
           plugin_skyline: yes
           plugin_skyline_year: 2021
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 1
+          plugin_skyline_frames: 30
+          plugin_skyline_quality: 0.5
           plugin_skyline_compatibility: yes
           plugin_languages: yes
           plugin_languages_colors: github
@@ -43,7 +43,7 @@ jobs:
           # plugin_repositories_affiliations: owner
           # plugin_repositories_batch: 100
           # plugin_repositories_forks: yes
-          plugin_languages_threshold: 0%
+          plugin_languages_threshold: 5%
           plugin_lines: yes
           plugin_habits: yes
           plugin_habits_days: 360
