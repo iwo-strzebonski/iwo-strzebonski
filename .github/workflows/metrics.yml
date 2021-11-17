@@ -56,10 +56,10 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_url: https://octo-3d.herokuapp.com/
-          plugin_code: yes
-          plugin_code_lines: 12
-          plugin_code_load: 100
-          plugin_code_visibility: public
+          # plugin_code: yes
+          # plugin_code_lines: 12
+          # plugin_code_load: 100
+          # plugin_code_visibility: public
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
