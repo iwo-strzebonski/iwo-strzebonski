@@ -30,7 +30,7 @@ jobs:
           plugin_skyline: yes
           plugin_skyline_year: 2021
           plugin_skyline_frames: 30
-          plugin_skyline_quality: 0.5
+          plugin_skyline_quality: 1
           plugin_skyline_compatibility: yes
           plugin_languages: yes
           plugin_languages_colors: github
