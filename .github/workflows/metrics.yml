@@ -74,9 +74,9 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: repositories
 
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_url: https://octo-3d.herokuapp.com/
+          # plugin_pagespeed: yes
+          # plugin_pagespeed_detailed: yes
+          # plugin_pagespeed_url: https://octo-3d.herokuapp.com/
 
           # plugin_code: yes
           # plugin_code_lines: 12
